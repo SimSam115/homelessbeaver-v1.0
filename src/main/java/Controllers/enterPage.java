@@ -11,7 +11,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import data.GameDetails;
 
 @Controller
-public class HomePage {
+public class enterPage {
+
 	
 	@GetMapping({"/"})
 	public String entrance(Model model) {
@@ -19,7 +20,7 @@ public class HomePage {
 		
 		
 		LinkedList<GameDetails> games = new LinkedList<GameDetails>();
-		games.add(new GameDetails(1,"Sam","Game is good","assest/img/a1.png","assest/img/a1_2.png"));
+		games.add(new GameDetails(1,"Sam","Game is good","assest/img/a1.png","assest/img/a1_2.html"));
 		games.add(new GameDetails(2,"Sam","Game is good","assest/img/a2.png","assest/img/a2_2.png"));
 		games.add(new GameDetails(2,"Sam","Game is good","assest/img/a2.png","assest/img/a2_2.png"));
 		games.add(new GameDetails(2,"Sam","Game is good","assest/img/a2.png","assest/img/a2_2.png"));
