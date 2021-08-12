@@ -1,0 +1,40 @@
+<div class="card-group">
+    <div class="card d-lg-flex flex-wrap justify-content-lg-end align-items-lg-start"><img class="card-img-top w-100 d-block" src="assets/img/Games/HTML5/Audi.png" style="transform: scale(0.60);">
+        <div class="card-body">
+            <h4 class="card-title">Simple Racing Game</h4>
+            <p class="card-text">Here is a racing game I developed to be taught to children. This was part of my CODE n' PLAY work and students loved this project. Just a simple racing game.</p><a class="btn btn-link btn-lg text-center border rounded-pill d-lg-flex d-xl-flex justify-content-lg-center justify-content-xl-center" role="button" href="Games/racingGame.html" target="_top">PLAY!</a>
+        </div>
+    </div>
+    <div class="card"><img class="card-img-top w-100 d-block d-lg-flex justify-content-lg-center img-thumbnail" src="assets/img/Games/HTML5/bossBeatenUp.png" style="margin: -64px;margin-left: 3px;transform: scale(0.50);">
+        <div class="card-body">
+            <h4 class="d-lg-flex justify-content-lg-center card-title">Gallagamma</h4>
+            <p class="card-text">This project is my highest time spent on one project. Its a classic side scrolling shooter inspired from the classic arcade Galaga!&nbsp;</p><a class="btn btn-link btn-lg text-center border rounded-pill d-lg-flex d-xl-flex justify-content-lg-center justify-content-xl-center" role="button" href="Games/gallagamma.html" target="_top">PLAY!</a>
+        </div>
+    </div>
+    <div class="card"><img class="card-img-top w-100 d-block" src="assets/img/Games/HTML5/main.png">
+        <div class="card-body">
+            <h4 class="card-title">Title</h4>
+            <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p><button class="btn btn-primary" type="button">Button</button>
+        </div>
+    </div>
+</div>
+<div class="card-group">
+    <div class="card"><img class="card-img-top w-100 d-block" src="assets/img/Games/HTML5/letterfinder/letterFinderMain.png" style="margin-top: -22px;margin-right: -24px;transform: scale(0.8);">
+        <div class="card-body">
+            <h4 class="card-title">Letter Finder!</h4>
+            <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p><button class="btn btn-primary" type="button">Button</button>
+        </div>
+    </div>
+    <div class="card"><img class="card-img-top w-100 d-block" src="assets/img/Games/HTML5/tankGame.png">
+        <div class="card-body">
+            <h4 class="card-title">Title</h4>
+            <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p><button class="btn btn-primary" type="button">Button</button>
+        </div>
+    </div>
+    <div class="card"><img class="card-img-top w-100 d-block">
+        <div class="card-body">
+            <h4 class="card-title">Title</h4>
+            <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p><button class="btn btn-primary" type="button">Button</button>
+        </div>
+    </div>
+</div>
