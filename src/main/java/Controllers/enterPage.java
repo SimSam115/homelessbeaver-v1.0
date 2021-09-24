@@ -21,7 +21,7 @@ public class enterPage {
 		games.add(new GameDetails(2,"Gallagamma","Game is good","assets/img/Games/HTML5/bossBeatenUp.png","Games/scratch/gallagamma.html"));
 		games.add(new GameDetails(3,"LetterFinder","Game is good","assets/img/Games/HTML5/letterfinder/letterFinder1.png","Games/scratch/letterFinder.html"));
 		games.add(new GameDetails(4,"Racing Game","Game is good","assets/img/Games/HTML5/Audi.png","Games/scratch/racingGame.html"));
-		games.add(new GameDetails(5,"testGame","Game is good","assets/img/Games/HTML5/tankGame.png","game"));
+		games.add(new GameDetails(5,"testGame","Game is  good","assets/img/Games/HTML5/tankGame.png","game"));
 		
 		
 		model.addAttribute("games", games);
